@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1642261865 source:c:\users\valiv\onedrive\desktop\stuff\cpps\proiect ip - cainii si vulpea\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<graphics.h>
+
